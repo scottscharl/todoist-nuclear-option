@@ -1,6 +1,6 @@
 # ☢️ Todoist Nuclear Option ☢️
 
-_Nuke your Todoist account._
+### _Nuke your Todoist account._
 
 Have you ever wanted to delete your entire to-do list and start over from zero?
 
