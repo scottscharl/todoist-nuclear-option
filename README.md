@@ -1,12 +1,12 @@
 # ☢️ Todoist Nuclear Option ☢️
 
-Have you ever wanted to just delete all tasks and start over?
+Have you ever wanted to delete your entire to-do list and start over from zero?
 
-Here's a NodeJS script that uses the [Todoist API's JavaScript SDK](https://developer.todoist.com/rest/v2/#javascript-sdk) to delete all your active tasks and give you a fresh start.
+This NodeJS script uses the [Todoist API's JavaScript SDK](https://developer.todoist.com/rest/v2/#javascript-sdk) to delete all your active tasks and give you a fresh start.
 
 ## Get Started
 
-- Clone this repository to your machine or open a copy on [GitHub Codespaces](https://curly-fortnight-gr5xj4wpgrq3v6qx.github.dev).
+- Clone this repository to your machine or open it on [GitHub Codespaces](https://curly-fortnight-gr5xj4wpgrq3v6qx.github.dev).
 
 - Create a `.env` file and add your [Todoist API Token](https://todoist.com/help/articles/find-your-api-token-Jpzx9IIlB), like this:
   `TODOIST_API_TOKEN=xxxxxxxxxxxxxxxxxxxxx`
