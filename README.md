@@ -11,12 +11,12 @@ Here's a NodeJS script that uses the Todist JavaScript SDK to handle it for you.
 - Find your [Todoist API Token](https://todoist.com/help/articles/find-your-api-token-Jpzx9IIlB)
 
 - Create a `.env` file and add your token, like this:
-  `TODOIST_API_TOKEN="xxxxxxxxxxxxxxxxxxxxxxxxxxx"`
+  `TODOIST_API_TOKEN="xxxxxxxxxxxxxxxxxxxxx"`
 
 - Run the script with `node .`
 
 ## Nervous? Don't worry.
 
-Before deleting, the script saves a timestamped JSON file backup of all your Todoist tasks in `./backups`, (for example, `2024-02-14T12:00:00:00.572Z.json`).
+Before deleting, the script saves a timestamped JSON file backup of all your Todoist tasks in `./backups`.
 
-Run `node restore.js FILENAME.json` to restore all tasks from the backup file.
+Run `node restore.js 2024-02-14T12:00:00:00.572Z.json` to restore all tasks from the backup file.
