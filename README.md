@@ -17,4 +17,4 @@ Here's a NodeJS script that uses the Todist JavaScript SDK to handle it for you.
 
 Before deleting, the script saves a timestamped JSON file backup of all your Todoist tasks in `./backups`. You can also [create your own backup at Settings/Backups](https://app.todoist.com/app/settings/backups) in the Todoist web app.
 
-To restore all tasks from one of the files in `./backup`, in the terminal run `node restore.js THE_FILENAME`. Unfortunately, task recurrence rules are lost, but the due dates should be restored.
+To restore all tasks from one of the JSON backup files in `./backup`, in the terminal run `node restore.js THE_FILENAME`. Unfortunately, task recurrence rules are lost, but the due dates should be restored.
