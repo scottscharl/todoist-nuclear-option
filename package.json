@@ -1,0 +1,19 @@
+{
+  "name": "todoist-nuclear-option",
+  "version": "1.0.0",
+  "description": "Delete ALL your Todoist tasks with this NodeJS script.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "todoist"
+  ],
+  "author": "Scott Scharl",
+  "license": "ISC",
+  "dependencies": {
+    "@doist/todoist-api-typescript": "^3.0.2",
+    "dotenv": "^16.4.4"
+  },
+  "type": "module"
+}
