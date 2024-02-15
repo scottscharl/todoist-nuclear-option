@@ -11,7 +11,7 @@ Here's a NodeJS script that uses the Todist JavaScript SDK to handle it for you.
 - Create a `.env` file and add your [Todoist API Token](https://todoist.com/help/articles/find-your-api-token-Jpzx9IIlB), like this:
   `TODOIST_API_TOKEN=xxxxxxxxxxxxxxxxxxxxx`
 
-- Run the script with `node .`
+- Run the script in the terminal with `node .`
 
 ## Nervous? Don't worry.
 
