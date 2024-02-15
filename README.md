@@ -2,7 +2,7 @@
 
 Have you ever wanted to just delete all tasks and start over?
 
-Here's a NodeJS script that uses the Todist JavaScript SDK to handle it for you. All you need is your Todoist API key
+Here's a NodeJS script that uses the Todoist JavaScript SDK to handle it for you. All you need is your Todoist API key
 
 ## Get Started
 
